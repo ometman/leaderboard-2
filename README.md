@@ -1,19 +1,19 @@
-# Leaderboard: Ometman
+# Leaderboard-2: Ometman
 <a name="readme-top"></a>
 
 <div align="center">
   <img src="./ometman-logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-  <h3><b>Leaderboard: Ometman</b></h3>
+  <h3><b>Leaderboard-2: Ometman</b></h3>
   <h5>**"Leaderboard"** is a website that displays scores submitted by different players. It also allows you to submit your score. All data is preserved by the external Leaderboard API service.
    It allows a game(s) to be 'added' and shows the added games on 'refresh' through the API service. The site was developed using ES6 and webpack and Leaderboard API service.<h5>
 </div>
 
 
 # 📗 Table of Contents
-- [Leaderboard: Ometman](#leaderboard-ometman)
+- [Leaderboard-2: Ometman](#leaderboard-2-ometman)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Leaderboard: Ometman ](#-leaderboard-ometman-)
+- [📖 Leaderboard-2: Ometman ](#-leaderboard-2-ometman-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -34,7 +34,7 @@
   - [📝 License ](#-license-)
 
 
-# 📖 Leaderboard: Ometman <a name="about-project"></a>
+# 📖 Leaderboard-2: Ometman <a name="about-project"></a>
 
 This project **To Do List** demonstrates the development of a website that uses  Javascript structured in modules, with Webpack and other dependencies, ES6 syntax, HTML and CSS, and the Leaderboard API. It employs the use of an API service in displaying results of a game, incorporating best practices. 
 
@@ -193,6 +193,7 @@ You can deploy this project using:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - **Full CURD functionality**
+- **Implements API calls**
 - **Improved interactive: Eg: Popup alert on deleting or adding a score**
 - **Changing UI - look and feel**
 - **Improved Aesthetics & Design**
@@ -204,7 +205,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ometman/leaderboard/issues).
+Feel free to check the [issues page](https://github.com/ometman/leaderboard-2/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
