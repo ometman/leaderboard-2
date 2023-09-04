@@ -1,9 +1,6 @@
 // Import our custom CSS
 import '../scss/styles.scss';
 
-// Import all of Bootstrap's JS
-import * as bootstrap from 'bootstrap';
-
 import addNewScore from '../modules/addScore.js';
 import allRecordedScores from '../modules/showAllScores.js';
 
@@ -22,5 +19,3 @@ document.addEventListener('DOMContentLoaded', async (ev) => {
 
 // adding a score to the list of scores
 addNewScore();
-
-export default bootstrap;
